@@ -1,8 +1,10 @@
 {
   "en": {
-    "title": "hello you"
+    "title": "hello you",
+    "subtitle": "yes"
   },
   "de": {
-    "title": "hallo welt da drauﬂen"
+    "title": "hallo welt da drauﬂen",
+    "subtitle": "no"
   }
 }

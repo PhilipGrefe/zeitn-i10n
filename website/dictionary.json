@@ -4,7 +4,8 @@
     "root.metadata.description": "Convenient time tracking solution for teams on the go.",
     "sidebar.dashboard": "Dashboard",
     "sidebar.reports": "Reports",
-    "sidebar.projects": "Projects"
+    "sidebar.projects": "Projects",
+    "sidebar.jobs": "Jobs"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",

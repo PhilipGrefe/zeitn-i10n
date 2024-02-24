@@ -7,6 +7,6 @@
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
-    "test": "with special characters like ß"
+    "test": "with special characters like "
   }
 }

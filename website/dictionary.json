@@ -1,10 +1,10 @@
 {
   "en": {
-    "title": "hello you",
+    "metadata.title": "hello you",
     "subtitle": "we have a problem"
   },
   "de": {
-    "title": "hallo welt da drauﬂen",
+    "metadata.title": "hallo welt da drauﬂen",
     "subtitle": "with special characters like ﬂ"
   }
 }

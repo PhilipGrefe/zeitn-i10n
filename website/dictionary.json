@@ -8,6 +8,7 @@
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
-    "sidebar.dashboard": "Übersicht"
+    "sidebar.dashboard": "Übersicht",
+    "sidebar.reports": "Berichte"
   }
 }

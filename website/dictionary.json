@@ -1,10 +1,10 @@
 {
   "en": {
     "root.metadata.title": "Zeitn | Geo based Time Tracker",
-    "root.metadata.description": "we have a problem"
+    "test": "we have a problem"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
-    "root.metadata.description": "with special characters like ß"
+    "test": "with special characters like ß"
   }
 }

@@ -6,7 +6,8 @@
     "sidebar.reports": "Reports",
     "sidebar.projects": "Projects",
     "sidebar.jobs": "Jobs",
-    "sidebar.employees": "Employees"
+    "sidebar.employees": "Employees",
+    "sidebar.customers": "Customers"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
@@ -15,6 +16,7 @@
     "sidebar.reports": "Berichte",
     "sidebar.projects": "Projekte",
     "sidebar.jobs": "Jobs",
-    "sidebar.employees": "Mitarbeiter"
+    "sidebar.employees": "Mitarbeiter",
+    "sidebar.customers": "Kunden"
   }
 }

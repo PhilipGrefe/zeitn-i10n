@@ -5,7 +5,8 @@
     "sidebar.dashboard": "Dashboard",
     "sidebar.reports": "Reports",
     "sidebar.projects": "Projects",
-    "sidebar.jobs": "Jobs"
+    "sidebar.jobs": "Jobs",
+    "sidebar.employees": "Employees"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",

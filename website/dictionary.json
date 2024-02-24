@@ -3,12 +3,14 @@
     "root.metadata.title": "Zeitn | Geo based Time Tracker",
     "root.metadata.description": "Convenient time tracking solution for teams on the go.",
     "sidebar.dashboard": "Dashboard",
-    "sidebar.reports": "Reports"
+    "sidebar.reports": "Reports",
+    "sidebar.projects": "Projects"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
     "sidebar.dashboard": "Übersicht",
-    "sidebar.reports": "Berichte"
+    "sidebar.reports": "Berichte",
+    "sidebar.projects": "Projekte"
   }
 }

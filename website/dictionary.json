@@ -12,6 +12,7 @@
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
     "sidebar.dashboard": "Übersicht",
     "sidebar.reports": "Berichte",
-    "sidebar.projects": "Projekte"
+    "sidebar.projects": "Projekte",
+    "sidebar.jobs": "Jobs"
   }
 }

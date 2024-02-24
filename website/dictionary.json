@@ -1,12 +1,10 @@
 {
   "en": {
     "root.metadata.title": "Zeitn | Geo based Time Tracker",
-    "root.metadata.description": "Convenient time tracking solution for teams on the go.",
-    "test": "we have a problem"
+    "root.metadata.description": "Convenient time tracking solution for teams on the go."
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",
-    "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
-    "test": "with special characters like the following: ß ä ö ü € !\"§$%&/()=? *+~#-_.:,;<>|@'´`^°"
+    "root.metadata.description": "Praktische Zeiterfassung f�r Teams unterwegs"
   }
 }

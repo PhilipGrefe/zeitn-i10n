@@ -20,6 +20,7 @@
     "sidebar.jobs": "Jobs",
     "sidebar.employees": "Mitarbeiter",
     "sidebar.customers": "Kunden",
-    "sidebar.locations": "Adressen"
+    "sidebar.locations": "Adressen",
+    "employees.add": "Neuer Mitarbeiter"
   }
 }

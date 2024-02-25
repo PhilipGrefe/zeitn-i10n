@@ -9,7 +9,7 @@
     "sidebar.employees": "Employees",
     "sidebar.customers": "Customers",
     "sidebar.locations": "Locations",
-    "employees.new-user": "Add e"
+    "employees.add": "Add e"
   },
   "de": {
     "root.metadata.title": "Zeitn | Zeiterfassung nach Orten",

@@ -9,6 +9,7 @@
     "sidebar.employees": "Employees",
     "sidebar.customers": "Customers",
     "sidebar.locations": "Locations",
+    "employees.subtitle": "(do I need a subtitle?)",
     "employees.add": "New employee"
   },
   "de": {

@@ -22,6 +22,7 @@
     "sidebar.employees": "Mitarbeiter",
     "sidebar.customers": "Kunden",
     "sidebar.locations": "Adressen",
+    "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.add": "Neuer Mitarbeiter"
   }
 }

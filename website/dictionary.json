@@ -9,6 +9,7 @@
     "sidebar.employees": "Employees",
     "sidebar.customers": "Customers",
     "sidebar.locations": "Locations",
+    "employees.title": "Employees",
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.add": "New employee"
   },
@@ -22,6 +23,7 @@
     "sidebar.employees": "Mitarbeiter",
     "sidebar.customers": "Kunden",
     "sidebar.locations": "Adressen",
+    "employees.title": "Mitarbeiter",
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.add": "Neuer Mitarbeiter"
   }

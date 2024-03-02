@@ -1,6 +1,6 @@
 {
   "en": {
-    "root.metadata.title": "Zeitn | Geo based Time Tracker",
+    "root.metadata.title": "%s | Zeitn",
     "root.metadata.description": "Convenient time tracking solution for teams on the go.",
     "sidebar.dashboard": "Dashboard",
     "sidebar.reports": "Reports",
@@ -14,7 +14,7 @@
     "employees.new-employee": "New employee"
   },
   "de": {
-    "root.metadata.title": "Zeitn | Zeiterfassung",
+    "root.metadata.title": "%s | Zeitn",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
     "sidebar.dashboard": "Übersicht",
     "sidebar.reports": "Berichte",

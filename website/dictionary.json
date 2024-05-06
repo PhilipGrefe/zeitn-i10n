@@ -13,7 +13,8 @@
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.new-employee": "New employee",
     "backoffice.metadata.title": "Back Office",
-    "employees.creation.error.USER_CREATION_FAILED": "Could not create employee. Please try again."
+    "employees.creation.error.USER_CREATION_FAILED": "Could not create employee. Please try again.",
+    "employees.creation.error.USER_ALREADY_EXISTS": "User already exists. Please change the login"
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",

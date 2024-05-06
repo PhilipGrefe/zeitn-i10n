@@ -12,7 +12,8 @@
     "employees.title": "Employees",
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.new-employee": "New employee",
-    "backoffice.metadata.title": "Back Office"
+    "backoffice.metadata.title": "Back Office",
+    "employees.creation.error.USER_CREATION_FAILED": "localization test"
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",

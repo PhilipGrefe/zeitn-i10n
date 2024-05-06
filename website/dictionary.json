@@ -30,6 +30,7 @@
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.new-employee": "Neuer Mitarbeiter",
     "backoffice.metadata.title": "Backoffice",
-    "employees.creation.error.USER_CREATION_FAILED": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut."
+    "employees.creation.error.USER_CREATION_FAILED": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut.",
+    "employees.creation.error.USER_ALREADY_EXISTS": "Nutzer"
   }
 }

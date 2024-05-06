@@ -28,6 +28,7 @@
     "employees.title": "Mitarbeiter",
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.new-employee": "Neuer Mitarbeiter",
-    "backoffice.metadata.title": "Backoffice"
+    "backoffice.metadata.title": "Backoffice",
+    "employees.creation.error.USER_CREATION_FAILED": "lokalisierung wird getestet"
   }
 }

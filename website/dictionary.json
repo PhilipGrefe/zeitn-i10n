@@ -33,6 +33,6 @@
     "backoffice.metadata.title": "Backoffice",
     "employees.creation.error.USER_CREATION_FAILED": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut.",
     "employees.creation.error.USER_ALREADY_EXISTS": "Nutzername existiert bereits. Bitte wähle einen anderen Nutzernamen.",
-    "employees.creation.error.GENERIC": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut."
+    "employees.creation.error.GENERIC": "Mitarbeiter konnte nicht gespeichert werden. Bitte prüfe die Eingaben."
   }
 }

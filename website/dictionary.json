@@ -12,7 +12,8 @@
     "employees.title": "Employees",
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.new-employee": "New employee",
-    "backoffice.metadata.title": "Back Office"
+    "backoffice.metadata.title": "Back Office",
+    "employees.creation.error.USER_CREATION_FAILED": "Could not create employee. Please try again."
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",
@@ -27,6 +28,7 @@
     "employees.title": "Mitarbeiter",
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.new-employee": "Neuer Mitarbeiter",
-    "backoffice.metadata.title": "Backoffice"
+    "backoffice.metadata.title": "Backoffice",
+    "employees.creation.error.USER_CREATION_FAILED": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut."
   }
 }

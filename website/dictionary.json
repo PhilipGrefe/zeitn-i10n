@@ -15,7 +15,7 @@
     "backoffice.metadata.title": "Back Office",
     "employees.creation.error.USER_CREATION_FAILED": "Could not create employee. Please try again.",
     "employees.creation.error.USER_ALREADY_EXISTS": "User already exists. Please change the login.",
-    "employees.creation.error.GENERIC": "Could not create employee. Please try again."
+    "employees.creation.error.validation-error": "Could not create employee. Please try again."
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",
@@ -33,6 +33,6 @@
     "backoffice.metadata.title": "Backoffice",
     "employees.creation.error.USER_CREATION_FAILED": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut.",
     "employees.creation.error.USER_ALREADY_EXISTS": "Nutzername existiert bereits. Bitte wähle einen anderen Nutzernamen.",
-    "employees.creation.error.GENERIC": "Mitarbeiter konnte nicht gespeichert werden. Bitte prüfe die Eingaben."
+    "employees.creation.error.validation-error": "Mitarbeiter konnte nicht gespeichert werden. Bitte prüfe die Eingaben."
   }
 }

@@ -13,7 +13,7 @@
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.new-employee": "New employee",
     "backoffice.metadata.title": "Back Office",
-    "employees.creation.error.user": "localization test"
+    "employees.creation": "localization test"
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",
@@ -29,6 +29,6 @@
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.new-employee": "Neuer Mitarbeiter",
     "backoffice.metadata.title": "Backoffice",
-    "employees.creation.error.user": "lokalisierung wird getestet"
+    "employees.creation": "lokalisierung wird getestet"
   }
 }

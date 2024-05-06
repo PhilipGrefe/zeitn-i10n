@@ -14,7 +14,8 @@
     "employees.new-employee": "New employee",
     "backoffice.metadata.title": "Back Office",
     "employees.creation.error.USER_CREATION_FAILED": "Could not create employee. Please try again.",
-    "employees.creation.error.USER_ALREADY_EXISTS": "User already exists. Please change the login."
+    "employees.creation.error.USER_ALREADY_EXISTS": "User already exists. Please change the login.",
+    "employees.creation.error.GENERIC": "Could not create employee. Please try again."
   },
   "de": {
     "root.metadata.title": "%s | Zeitn",

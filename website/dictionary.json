@@ -21,6 +21,7 @@
   "de": {
     "root.metadata.title": "%s | Zeitn",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
+    "global.error.form-validation": "Bitte prüfe deine Eingaben.",
     "sidebar.dashboard": "Übersicht",
     "sidebar.reports": "Berichte",
     "sidebar.projects": "Projekte",

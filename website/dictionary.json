@@ -23,7 +23,7 @@
     "root.metadata.title": "%s | Zeitn",
     "root.metadata.description": "Praktische Zeiterfassung für Teams unterwegs",
     "global.error.form-validation": "Bitte prüfe deine Eingaben.",
-    "global.error.save": "Speichern fehlgeschlagen.",
+    "global.error.save": "Speichern fehlgeschlagen. Bitte versuche es erneut.",
     "sidebar.dashboard": "Übersicht",
     "sidebar.reports": "Berichte",
     "sidebar.projects": "Projekte",

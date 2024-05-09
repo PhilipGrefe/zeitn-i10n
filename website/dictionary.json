@@ -2,6 +2,7 @@
   "en": {
     "root.metadata.title": "%s | Zeitn",
     "root.metadata.description": "Convenient time tracking solution for teams on the go.",
+    "global.error.form-validation": "Please check your inputs.",
     "sidebar.dashboard": "Dashboard",
     "sidebar.reports": "Reports",
     "sidebar.projects": "Projects",

@@ -15,8 +15,6 @@
     "employees.subtitle": "(do I need a subtitle?)",
     "employees.new-employee": "New employee",
     "backoffice.metadata.title": "Back Office",
-    "employees.creation.error.validation-error": "Could not create employee. Please check the fields above.",
-    "employees.creation.error.generic": "Could not create employee. Please try again.",
     "employees.creation.error.USER_ALREADY_EXISTS": "User already exists. Please change the login."
   },
   "de": {
@@ -35,8 +33,6 @@
     "employees.subtitle": "(brauche ich einen Untertitel?)",
     "employees.new-employee": "Neuer Mitarbeiter",
     "backoffice.metadata.title": "Backoffice",
-    "employees.creation.error.validation-error": "Mitarbeiter konnte nicht gespeichert werden. Bitte prüfe deine Eingaben.",
-    "employees.creation.error.generic": "Mitarbeiter konnte nicht gespeichert werden. Bitte versuche es erneut.",
     "employees.creation.error.USER_ALREADY_EXISTS": "Nutzername existiert bereits. Bitte wähle einen anderen Nutzernamen."
   }
 }
